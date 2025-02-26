@@ -98,5 +98,3 @@ npm install react-router-dom framer-motion chart.js react-chartjs-2 jodit-react 
 
 ---
 
-This project is designed to be easily deployed and provides a feature-rich dashboard experience with smooth animations and an intuitive UI. 🚀
-
